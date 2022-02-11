@@ -1,0 +1,3 @@
+
+Data is inserted from master branch in file1.txt
+
